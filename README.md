@@ -1,4 +1,4 @@
-Website for a recipe
-Exclusively HTML
+Website test 
+The Odin Project 
 
-Waiting until finish to rewrite the readme file.
+Some recipes , exclusively HTML. 
